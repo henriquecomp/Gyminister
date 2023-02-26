@@ -1,9 +1,12 @@
 # Gyminister
 
-- A C# code with hexagonal architecture
-- Using unit tests
-- Mediatr
+This project are written in C# that contains
+
+- Hexagonal architecture
+- Microservices
+- Using unit tests (xUnit)
 - CQRS
+- Mediatr
 - Result pattern
 - EF Core
 
